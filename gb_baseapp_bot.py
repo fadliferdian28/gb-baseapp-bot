@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 from datetime import datetime, timedelta
 
 # === GANTI DENGAN TOKEN BOT KAMU ===
-BOT_TOKEN = "8210598767:AAHjF7B5JGAb8Nf8Uw3NlR7WA4jRl7riyMg"
+BOT_TOKEN = "BOT TOKEN"
 
 # Data disimpan sementara
 posts = {}   # { link: {"user": username, "done": set(), "time": datetime } }
